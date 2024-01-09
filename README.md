@@ -14,15 +14,24 @@
 ## :star2: About the Project
 
 ### :camera: Screenshots
-<div align="center"> <a href="https://cinemania-moviedb-react-zgvz-cqij30rbd-nikhil-singhs-projects.vercel.app/"><img src="https://drive.google.com/file/d/13fZ3EQCY78fkMalR72VDin9-zYpGhYPP/view?usp=sharing" alt='image' width='800'/></a> </div>
-<div align="center"> <a href="https://cinemania-moviedb-react-zgvz-cqij30rbd-nikhil-singhs-projects.vercel.app/"><img src="https://drive.google.com/file/d/1UxLeYLLj6zCt8wZNQurpUbN5l2WDr4ID/view?usp=sharing" alt='image' width='800'/></a> </div>
-<div align="center"> <a href="https://cinemania-moviedb-react-zgvz-cqij30rbd-nikhil-singhs-projects.vercel.app/"><img src="https://drive.google.com/file/d/1y1rAp1KyRNK9etX2_yB8pe9Wlk6rV2qB/view?usp=sharing" alt='image' width='800'/></a> </div>
-<div align="center"> <a href="https://cinemania-moviedb-react-zgvz-cqij30rbd-nikhil-singhs-projects.vercel.app/"><img src="https://drive.google.com/file/d/16tDym1PuB0aBkIH7u8XSln4efni2-QV-/view?usp=sharing" alt='image' width='800'/></a> </div>
-<div align="center"> <a href="https://cinemania-moviedb-react-zgvz-cqij30rbd-nikhil-singhs-projects.vercel.app/"><img src="https://drive.google.com/file/d/1ukLb2AJ6jh9e_eTNzcEGQUiOR6QWc9jF/view?usp=sharing" alt='image' width='800'/></a> </div>
-<div align="center"> <a href="https://cinemania-moviedb-react-zgvz-cqij30rbd-nikhil-singhs-projects.vercel.app/"><img src="https://drive.google.com/file/d/1XJhPHAYbnpBwhiyR-R12wfWdISDJE5Ls/view?usp=sharing" alt='image' width='800'/></a> </div>
-<div align="center"> <a href="https://cinemania-moviedb-react-zgvz-cqij30rbd-nikhil-singhs-projects.vercel.app/"><img src="https://drive.google.com/file/d/1QIxnoDjgRHutIWLrK7gDUi4aZic734S7/view?usp=sharing" alt='image' width='800'/></a> </div>
+
+![Screenshot (86)](https://github.com/nikhilkcodes/Cinemania-moviedb-react/assets/86142267/f67a1720-2234-41e3-8a45-8a8417c63a91)
+
+![Screenshot (87)](https://github.com/nikhilkcodes/Cinemania-moviedb-react/assets/86142267/9fa476a8-2fae-41fe-a3fc-c4ec8c89f513)
+
+![Screenshot (88)](https://github.com/nikhilkcodes/Cinemania-moviedb-react/assets/86142267/dfb078af-afa9-4be3-9ade-6960847ff514)
 
 
+![Screenshot (89)](https://github.com/nikhilkcodes/Cinemania-moviedb-react/assets/86142267/2831b3f4-9fbb-4ffb-aad8-595efc6f2431)
+
+![Screenshot (90)](https://github.com/nikhilkcodes/Cinemania-moviedb-react/assets/86142267/8eaa4b10-ec3b-45ee-919f-fab744459715)
+
+![Screenshot (91)](https://github.com/nikhilkcodes/Cinemania-moviedb-react/assets/86142267/86119d28-d068-44f7-a113-6f5cd3509bc4)
+
+
+![Screenshot (92)](https://github.com/nikhilkcodes/Cinemania-moviedb-react/assets/86142267/a2ea74c1-8b78-4f85-9cf4-aece00db512b)
+
+![Screenshot (93)](https://github.com/nikhilkcodes/Cinemania-moviedb-react/assets/86142267/6fa0d3d6-e991-4f04-b04a-2627219c7057)
 
 ### :dart: Features
 - lazy loading
